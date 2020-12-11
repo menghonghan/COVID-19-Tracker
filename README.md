@@ -6,7 +6,7 @@ Final Project for "203BUS-216F-1 : Python and Applications to Business Analytics
 <br>
 This tracker aggregates the latest COVID-19 stats, map, news and customized interactive charts for countries and criteria to get quick takeaway and in-depth analysis.
 <br>
-![image](https://github.com/menghonghan/COVID-19-Tracker/blob/main/Screenshot/tracker.gif)
+![image] (https://github.com/menghonghan/COVID-19-Tracker/blob/main/Screenshot/tracker.gif)
 <br>
 
 

@@ -2,8 +2,10 @@
 <br>
 Final Project for "203BUS-216F-1 : Python and Applications to Business Analytics II"
 
-<br>
+
+
 Team: Menghong Han, Xiaofan Sun
+
 
 
 # Introduction

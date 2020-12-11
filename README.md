@@ -17,6 +17,7 @@ This tracker aggregates the latest COVID-19 stats, map, news and customized inte
 <br>
 * Users can customize as many line & bar charts as they need to do in-depth analysis.
 <br>
+
 # Key Features
 <br>
 * Daily Status 
@@ -32,6 +33,7 @@ This tracker aggregates the latest COVID-19 stats, map, news and customized inte
 <br>
 For US and International: Johns Hopkins CSSE
 <br>
+
 # Tech Stack
 <br>
 GUI designed by Plotly Dash
